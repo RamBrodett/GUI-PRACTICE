@@ -1,3 +1,6 @@
+// Still under development.
+// First time using java. Will poslish GUI and add more feature once i'm familiar with Java.
+
 import javax.swing.*;
 import java.awt.*;
 import java.awt.event.*;
